@@ -1,1 +1,6 @@
-"# Venom2" 
+# Venom2
+
+Using:
+ - HTML
+ - CSS
+ - Javascript
